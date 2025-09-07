@@ -19561,7 +19561,7 @@
                             specular: 10506256,
                             shininess: 50,
                             bumpScale: .1,
-                            color: 5133902,
+                            color: 16711680,
                             emissive: l0l0l.hsvToRgbHex(this.hue, .5, 1),
                             emissiveMap: OO10l
                         })
@@ -23584,7 +23584,7 @@
                             specular: 10506256,
                             shininess: 50,
                             bumpScale: .1,
-                            color: 5133902,
+                            color: 16711680,
                             emissive: l0l0l.hsvToRgbHex(this.hue, .5, 1),
                             emissiveMap: OO10l
                         })
